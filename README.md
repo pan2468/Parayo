@@ -8,7 +8,7 @@
 <div markdown="1">
 
 - Error: failed linking references.
-- 
+- 원인:
 
 ### 💡 해결 방법
 <details>
